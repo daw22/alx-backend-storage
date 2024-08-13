@@ -38,5 +38,6 @@ if __name__ == "__main__":
             }
          }
     ])
+    print("Ips:")
     for ip in top_ips:
         print(f"\t{ip.get("ip")}: {ip.get("count")}")
