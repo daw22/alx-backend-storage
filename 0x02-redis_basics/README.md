@@ -1,1 +1,1 @@
-# Redis basics \n redis introduction
+# Redis basics
